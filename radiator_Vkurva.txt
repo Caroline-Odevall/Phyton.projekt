@@ -1,0 +1,9 @@
+Utetemperatur	Framledningstemperatur
+-20	65
+-15	58
+-10	54
+-5	48
+0	43
+5	37
+10	32
+20	18
